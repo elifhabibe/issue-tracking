@@ -1,0 +1,16 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\Business\\Services",
+    "\\Business\\Services\\Abstract",
+    "\\Business\\Services\\Concrete",
+    "\\DataAccess\\Context",
+    "\\DataAccess\\Repositories",
+    "\\DataAccess\\Repositories\\Abstract",
+    "\\Entity\\bin",
+    "\\WebAPI\\Controllers",
+    "\\WebAPI\\Properties"
+  ],
+  "SelectedNode": "\\Business",
+  "PreviewInSolutionExplorer": false
+}
